@@ -12,3 +12,6 @@ spec:
   owner: utilities example-grpc-api
   providesApis:
     - example-grpc-api
+  tags:
+    - IAM
+    - Utility
