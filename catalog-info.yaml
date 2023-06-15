@@ -4,7 +4,6 @@ metadata:
   name: test_utility_2
   annotations:
     github.com/project-slug: chriscdm/test_utility_2
-    namespace: external-systems
   description: Example of a utility
   tags:
     - IAM
