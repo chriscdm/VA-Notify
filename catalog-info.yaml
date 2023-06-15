@@ -4,7 +4,11 @@ metadata:
   name: test_utility_2
   annotations:
     github.com/project-slug: chriscdm/test_utility_2
+    namespace: external-systems
+    description: Example of a utility
 spec:
   type: other
   lifecycle: unknown
-  owner: utilities
+  owner: utilities example-grpc-api
+  providesApis:
+    - example-grpc-api
