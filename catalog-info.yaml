@@ -5,13 +5,13 @@ metadata:
   annotations:
     github.com/project-slug: chriscdm/test_utility_2
     namespace: external-systems
-    description: Example of a utility
+  description: Example of a utility
+  tags:
+    - IAM
+    - utility
 spec:
   type: other
   lifecycle: unknown
-  owner: utilities example-grpc-api
+  owner: utilities
   providesApis:
     - example-grpc-api
-  tags:
-    - IAM
-    - Utility
