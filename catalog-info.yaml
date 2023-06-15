@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test_utility_2
+  annotations:
+    github.com/project-slug: chriscdm/test_utility_2
+spec:
+  type: other
+  lifecycle: unknown
+  owner: utilities
