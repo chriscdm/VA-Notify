@@ -12,5 +12,3 @@ spec:
   type: other
   lifecycle: unknown
   owner: utilities
-  providesApis:
-    - example-grpc-api
