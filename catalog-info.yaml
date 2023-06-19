@@ -1,4 +1,4 @@
-apiVersion: backstage.io/v1alpha1
+iceapiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: test_utility_2
@@ -9,6 +9,6 @@ metadata:
     - utility
     - comms
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: utilities
