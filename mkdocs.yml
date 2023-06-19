@@ -3,5 +3,5 @@ site_name: 'VA-Notify Tech Docs'
 nav:
   - Home: index.md
 
-plugins:
-  - techdocs-core
+# plugins:
+#   - techdocs-core
