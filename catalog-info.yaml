@@ -1,7 +1,7 @@
 iceapiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: test_utility_2
+  name: VA-Notify
   annotations:
     github.com/project-slug: chriscdm/test_utility_2
   description: Example of a utility
