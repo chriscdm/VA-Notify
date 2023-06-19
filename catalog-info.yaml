@@ -14,7 +14,7 @@ metadata:
     - utility
     - comms
 spec:
-  type: service
+  type: utility
   lifecycle: production
   owner: test_user
   system: examples
