@@ -9,7 +9,7 @@ metadata:
   annotations:
     github.com/project-slug: chriscdm/VA-Notify
     backstage.io/techdocs-ref: dir:.
-  description: Provides notification services via a REST API and a web application where teams can create / manage notification templates as needed; supports email, text, push notifications1, and onsite notifications2; does not store any veteran information
+  description: Provides notification services via a REST API and a web application where teams can create / manage notification templates as needed; supports email, text, push notifications, and onsite notifications2; does not store any veteran information
   tags:
     - utility
     - comms
