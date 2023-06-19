@@ -8,6 +8,7 @@ metadata:
   tags:
     - utility
     - comms
+  backstage.io/techdocs-ref: value
 spec:
   type: service
   lifecycle: unknown
