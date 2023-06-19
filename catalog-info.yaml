@@ -2,6 +2,10 @@ apiVersion: backstage.io/v1alpha1
 kind: System
 metadata:
   name: VA-Notify
+  links:
+    - url: www.google.com
+      title: VA Notify Full Documentation
+      icon: dashboard
   annotations:
     github.com/project-slug: chriscdm/VA-Notify
     backstage.io/techdocs-ref: dir:.
@@ -9,10 +13,6 @@ metadata:
   tags:
     - utility
     - comms
- links:
-    - url: www.google.com
-      title: VA Notify Full Documentation
-      icon: dashboard
 spec:
   type: service
   lifecycle: production
