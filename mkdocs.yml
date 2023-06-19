@@ -1,0 +1,11 @@
+site_name: VA-Notify Tech Docs
+siite_description: "Documentation for the VA-Notify service"
+repo_ur: https://github.com/chriscdm/VA-Notify
+edit_uri: edit/master/docs
+nav:
+  - Home: index.md
+markdown_extensions:
+  - pymdownx.snippets:
+    check_paths: true
+plugins:
+  - techdocs-core
