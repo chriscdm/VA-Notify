@@ -17,3 +17,4 @@ spec:
   type: service
   lifecycle: production
   owner: test_user
+  system: examples
