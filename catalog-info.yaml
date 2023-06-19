@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: VA-Notify
   annotations:
-    github.com/project-slug: chriscdm/test_utility_2
+    github.com/project-slug: chriscdm/VA-Notify
   description: Example of a utility
   tags:
     - utility
