@@ -3,9 +3,9 @@ kind: System
 metadata:
   name: VA-Notify
   links:
-    - url: www.google.com
-      title: VA Notify Full Documentation
-      icon: dashboard
+     - url: www.google.com
+       title: VA Notify Full Documentation
+       icon: dashboard
   annotations:
     github.com/project-slug: chriscdm/VA-Notify
     backstage.io/techdocs-ref: dir:.
