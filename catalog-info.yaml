@@ -5,7 +5,7 @@ metadata:
   links:
     - url: https://www.google.com/
       title: VA Notify Full Documentation
-      icon: techdocs
+      icon: dashboard
   annotations:
     github.com/project-slug: chriscdm/VA-Notify
     backstage.io/techdocs-ref: dir:.
