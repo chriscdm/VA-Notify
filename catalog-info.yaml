@@ -12,7 +12,7 @@ metadata:
  links:
     - url: www.google.com
       title: VA Notify Full Documentation
-      icon: techdocs
+      icon: dashboard
 spec:
   type: service
   lifecycle: production
