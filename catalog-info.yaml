@@ -1,21 +1,21 @@
 apiVersion: backstage.io/v1alpha1
-kind: Component
+kind: Resource
 metadata:
-  name: vanotify-backstage-cofig
+  name: vanotify-backstage-config
   title: 
   links:
-    - url: https://www.google.com/
-      title: VA Notify  Documentation
-      icon: dashboard
+    - url: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20Notify%20Playbook.pdf
+      title: VA Notify Documentation
+      icon: web
   annotations:
-    github.com/project-slug: chriscdm/VA-Notify
+    github.com/project-slug: ***/vanotify-backstage-config
     backstage.io/techdocs-ref: dir:.
-  description: Provides notification services via a REST API and a web application where teams can create / manage notification templates as needed; supports email, text, push notifications, and onsite notifications2; does not store any veteran information
+  description: Provides notification services via a REST API and a web application
   tags:
     - utility
-    - comms
+    - notifications
 spec:
-  type: utility
+  type:  ***
   lifecycle: production
-  owner: test_user
-  system: examples
+  owner: ***
+  system: ***
