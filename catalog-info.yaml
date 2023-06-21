@@ -1,10 +1,11 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: VA-Notify
+  name: vanotify-backstage-cofig
+  title: 
   links:
     - url: https://www.google.com/
-      title: VA Notify Full Documentation
+      title: VA Notify  Documentation
       icon: dashboard
   annotations:
     github.com/project-slug: chriscdm/VA-Notify
