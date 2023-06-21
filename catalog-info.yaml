@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Resource
 metadata:
   name: vanotify-backstage-config
-  title: 
+  title: VA Notify
   links:
     - url: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20Notify%20Playbook.pdf
       title: VA Notify Documentation
